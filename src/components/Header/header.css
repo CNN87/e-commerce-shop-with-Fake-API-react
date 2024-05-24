@@ -1,0 +1,15 @@
+@keyframes blink-faster {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  .animate-blink-faster {
+    animation: blink-faster 0.3s infinite;
+  }
