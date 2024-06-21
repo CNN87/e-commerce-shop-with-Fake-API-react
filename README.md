@@ -1,3 +1,7 @@
+A E-Commerce shop with Fake Store API created with vscode and React using tailwind css 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
